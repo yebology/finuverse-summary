@@ -13,7 +13,15 @@ Welcome to Finuverse, the next-generation Web3 marketplace for digital finance e
 - 🛒 Buy Course : Browse through a variety of digital finance courses and purchase the ones that suit your learning needs. 📚  
 - ⬆️ Upload Course : Share your expertise by uploading your own courses and reach learners from around the world. 🌍  
 - ✅ Complete Course : Finish the course by completing a short quiz at the end to assess your understanding. 📝  
-- ⭐ Rate Course : Simply give a star rating based on your experience to help others find valuable content. ✨  
+- ⭐ Rate Course : Simply give a star rating based on your experience to help others find valuable content. ✨
+
+## ⚙️ Tech Stack Behind Finuverse
+- 🖥️ Frontend : ReactTS (Typescript)
+- 🔧 Smart Contract Development : Anchor (Rust)
+- 🔗 Library : Solana web3.js
+- 🧩 Component Library : Aceternity UI
+- 🌐 IPFS Provider : Pinata
+- 🎨 Styling : TailwindCSS
 
 ## 🚀 Finuverse Insights
 - 💻 dApp (Frontend) : [View Code](https://github.com/yebology/finuverse-dapp.git)
