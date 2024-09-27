@@ -24,8 +24,8 @@ Welcome to Finuverse, the next-generation Web3 marketplace for digital finance e
 - 🎥 Demo Video : [Watch Video (Coming Soon)]()
 
 ## 🤝 Contributors
-🧑 Joren Alexander Toding : [@jhwrwe](https://github.com/jhwrwe)
-🧑 Hayya U : [@hayyaoe](https://github.com/hayyaoe)
-🧑 Louis Fernando : [@LouisFernando1204](https://github.com/LouisFernando1204)
-🧑 Kevin Christian : [@kchristian03](https://github.com/kchristian03)
-🧑 Yobel Nathaniel Filipus : [@yebology](https://github.com/yebology)
+- 🧑 Joren Alexander Toding : [@jhwrwe](https://github.com/jhwrwe)
+- 🧑 Hayya U : [@hayyaoe](https://github.com/hayyaoe)
+- 🧑 Louis Fernando : [@LouisFernando1204](https://github.com/LouisFernando1204)
+- 🧑 Kevin Christian : [@kchristian03](https://github.com/kchristian03)
+- 🧑 Yobel Nathaniel Filipus : [@yebology](https://github.com/yebology)
