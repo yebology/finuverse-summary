@@ -29,7 +29,6 @@ Welcome to Finuverse, the next-generation Web3 marketplace for digital finance e
 - 📊 Pitch Deck : [View File (Coming Soon)]()
 - 📜 Contract Address : [View on Solana Explorer (Coming Soon)](https://explorer.solana.com/address/(COMING SOON)?cluster=devnet)
 - 📺 Presentation Video : [Watch Video (Coming Soon]()
-- 🎥 Demo Video : [Watch Video (Coming Soon)]()
 
 ## 🤝 Contributors
 - 🧑 Joren Alexander Toding : [@jhwrwe](https://github.com/jhwrwe)
