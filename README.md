@@ -25,10 +25,10 @@ Welcome to Finuverse, the next-generation Web3 marketplace for digital finance e
 
 ## 🚀 Finuverse Insights
 - 💻 dApp (Frontend) : [View Code](https://github.com/yebology/finuverse-dapp.git)
-- 🔧 Smart Contract Development (Backend) : [View Code](https://github.com/yebology/finuverse-smartcontract.git)
-- 📊 Pitch Deck : [View File (Coming Soon)]()
-- 📜 Contract Address : [View on Solana Explorer (Coming Soon)](https://explorer.solana.com/address/(COMING SOON)?cluster=devnet)
-- 📺 Presentation Video : [Watch Video (Coming Soon]()
+- 🔧 Smart Contract (Backend) : [View Code](https://github.com/yebology/finuverse-smartcontract.git)
+- 📊 Pitch Deck : [View File](https://drive.google.com/file/d/1HkCIEuSrc9vi_o-VNcU1avmtF3IMcSDN/view?usp=sharing)
+- 📜 Contract Address : [View on Solana Explorer](https://explorer.solana.com/address/4DYP8c9XLTW88FrfPkJ1F1Ak4hcHLQy5kZXFo5QiJuAi?cluster=devnet)
+- 📺 Presentation Video : [Watch Video (Coming Soon)]()
 
 ## 🤝 Contributors
 - 🧑 Joren Alexander Toding : [@jhwrwe](https://github.com/jhwrwe)
