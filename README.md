@@ -30,6 +30,29 @@ Welcome to Finuverse, the next-generation Web3 marketplace for digital finance e
 - 📜 Contract Address : [View on Solana Explorer](https://explorer.solana.com/address/4DYP8c9XLTW88FrfPkJ1F1Ak4hcHLQy5kZXFo5QiJuAi?cluster=devnet)
 - 📺 Presentation Video : [Watch Video](https://youtu.be/EZU8qUoDEk8)
 
+## 🏃‍♂️ How to Run It on My Computer ?
+1. Go to this [site](https://github.com/yebology/finuverse-dapp.git)
+2. Search and click **Fork** button
+3. Click **Create Fork**
+4. Create new folder on your laptop
+5. Open folder on **Visual Studio Code**
+6. Open terminal on **Visual Studio Code**
+7. Run on terminal this script : 
+```
+git clone https://github.com/<YOUR_USERNAME>/<YOUR_FORK_REPO_NAME>.git
+cd <YOUR_FORK_REPO_FOLDER_NAME>
+```
+8. Run on terminal this script
+```
+npm install
+```
+9. Run on terminal this script
+```
+npm run dev
+```  
+10. Click your local url
+11. Enjoy use our platform!
+
 ## 🤝 Contributors
 - 🧑 Joren Alexander Toding : [@jhwrwe](https://github.com/jhwrwe)
 - 🧑 Hayya U : [@hayyaoe](https://github.com/hayyaoe)
